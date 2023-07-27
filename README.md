@@ -1,4 +1,6 @@
-# comunicacao-desafio
+# Desafio - Lista de Usuários
+Resolução do desafio desenvolvido com base nas aulas de VueJS da Cod3r com o porfessor Leonardo Leitão
+
 
 ## Project setup
 ```
